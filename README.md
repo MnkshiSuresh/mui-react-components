@@ -38,4 +38,13 @@ For more components and detailed usage examples, refer to the documentation and 
 ( Refer App.js provided for code )
 
 Here are some examples of how to use these components in your React application:
+![Screenshot (85)](https://github.com/MnkshiSuresh/mui-react-components/assets/119519427/c1100f14-9dbd-4cbb-89df-5210a90c7fc5)
+
+
+![Screenshot (84)](https://github.com/MnkshiSuresh/mui-react-components/assets/119519427/bc6e34a1-e4f6-4017-aa7c-2916bcf56a3e)
+
+## Resources
+
+- [Material-UI Documentation](https://mui.com/)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 
