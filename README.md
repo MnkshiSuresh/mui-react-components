@@ -19,7 +19,7 @@ Props:
 variant: 'text' | 'outlined' | 'contained'
 color: 'default' | 'primary' | 'secondary'
 
-###Card
+### Card
 A Material-UI card component for displaying content.
 
 Props:
